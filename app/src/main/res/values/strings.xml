@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">عبدالله أبو قاعود</string>
+    <string name="app_name_english">Abdullah Abu Qaoud</string>
+    <string name="share_activity_label">تنزيل عبر عبدالله أبو قاعود</string>
+    <string name="notification_channel_downloads_id">abdullah_downloads_channel</string>
+    <string name="notification_channel_downloads_name">التحميلات النشطة</string>
+    <string name="notification_channel_complete_id">abdullah_complete_channel</string>
+    <string name="notification_channel_complete_name">اكتمال التنزيلات</string>
+    <string name="notification_channel_playback_name">مشغل الوسائط</string>
+</resources>

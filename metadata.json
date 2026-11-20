@@ -1,0 +1,6 @@
+{
+  "name": "عبدالله أبو قاعود",
+  "description": "Abdullah Abu Qaoud — Professional Video & Audio Downloader with Quick Share Popup, Download Manager, File Manager, Media3 Player, and Gemini Media Intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
